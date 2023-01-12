@@ -2,4 +2,4 @@
 
 Assignments and project of PEA course at Politecnico di Milano. 
 
-All the material in this repository is developed in MATLAB.
+All the material in this repository is developed in MATLAB and JMT 1.2.2.
